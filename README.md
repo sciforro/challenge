@@ -7,9 +7,9 @@ Partial solutions with reasoned and promising approaches are also accepted.
 The .stl file of the target object is the target.stl in this repository.
 
 <p align="center">
-  <img src="https://github.com/sciforro/challenge/blob/main/Tobj1.png" width="300" title="Target">
-  <img src="https://github.com/sciforro/challenge/blob/main/Tobj2.png" width="300" title="2D object">
-  <img src="https://github.com/sciforro/challenge/blob/main/Tobj3.png" width="300" title="Wrapping">
+  <img src="https://github.com/sciforro/challenge/blob/main/Tobj1.png" width="200" title="Target">
+  <img src="https://github.com/sciforro/challenge/blob/main/Tobj2.png" width="200" title="2D object">
+  <img src="https://github.com/sciforro/challenge/blob/main/Tobj3.png" width="200" title="Wrapping">
 </p>
 
 Scales:
